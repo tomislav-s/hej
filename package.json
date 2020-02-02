@@ -1,0 +1,11 @@
+{
+  "name": "hej-public",
+  "version": "1.0.0",
+  "description": "A page for throwing letters around made in Matter.js",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
