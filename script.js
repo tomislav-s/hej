@@ -155,7 +155,6 @@ const initListeners = () => {
 };
 
 const handleResize = debounce(() => {
-  console.log('resize');
   width = window.innerWidth;
   height = window.innerHeight;
 
